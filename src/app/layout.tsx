@@ -20,6 +20,7 @@ const geistMono = localFont({
 export const metadata: Metadata = {
   title: "Loop | Code Editor",
   description: "Share and run code snippets",
+  icons: "/favicon.ico",
 };
 
 export default function RootLayout({
